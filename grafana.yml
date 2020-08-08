@@ -1,6 +1,6 @@
 ---
 - name: Install Grafana
-  hosts: 172.31.6.7
+  hosts: grafana-test
   roles:
     - grafana
    
